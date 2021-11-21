@@ -5,7 +5,7 @@ Do you like my Profile?
 [![wakatime](https://wakatime.com/badge/user/8980ae70-4035-45bb-8c9a-a45067c11b98.svg)](https://wakatime.com/@8980ae70-4035-45bb-8c9a-a45067c11b98)
 
 - 🔭 I’m currently Gaining Skill of Full Stcak developement on BootCamp [www.ccbp.in/](https://www.ccbp.in/)
-- 💬 Ask me about HTML, CSS, bootstrapping and Python
+- 💬 Ask me about HTML, CSS, bootstrapping, Javascript and Python
 - 📫 How to reach me: [@AdityaN71677515](https://twitter.com/AdityaN71677515) on Twitter
 
 <!--
