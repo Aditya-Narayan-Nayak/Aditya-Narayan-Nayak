@@ -33,6 +33,15 @@
      <img src="https://img.icons8.com/color/96/000000/linux--v2.png"/>
 </p>
 
+## Connect with me:
+<p align="left">
+
+<a href = "https://www.linkedin.com/in/aditya-narayan-nayak-a207391a1/"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png"/></a>
+<a href = "https://twitter.com/AdityaN71677515"><img src=""/><img src="https://img.icons8.com/color/48/000000/twitter--v2.png"/></a>
+<a href = "https://linktr.ee/AdityaNarayan.N"><img src="https://img.icons8.com/color/48/000000/linktree.png"/></a>
+<a href = "https://app.slack.com/client/T09NY5SBT/C9T0QMNG4/user_profile/U02NK6W5K3Q"> <img src="https://img.icons8.com/color/48/000000/slack-new.png"/> </a>
+   
+
 <!--<p align="center">
     <a href="https://github.com/syedatif4118/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Syed Atif's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=syedatif4118&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
