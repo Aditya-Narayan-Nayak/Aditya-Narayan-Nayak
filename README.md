@@ -21,15 +21,15 @@
      <a href="https://www.google.com/search?q=html&oq=html&aqs=chrome..69i57j69i61j69i60l3j69i65l3.975j0j7&sourceid=chrome&ie=UTF-8" target="_blank"> <img src="https://img.icons8.com/color/96/000000/html-5--v2.png"/> </a>
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/96/000000/python--v2.png"/></a>
   <a href="https://en.wikipedia.org/wiki/CSS" target="_blank"> <img src="https://img.icons8.com/color/96/000000/css3.png"/></a>
-  <a href="https://https://kubernetes.io/" target="_blank"> <img src="https://img.icons8.com/color/96/000000/kubernetes.png"/> </a>
-  <a href="https://https://kubernetes.io/" target="_blank"> <img src="https://img.icons8.com/color/96/000000/kubernetes.png"/> </a>
-  <a href="https://https://kubernetes.io/" target="_blank"> <img src="https://img.icons8.com/color/96/000000/kubernetes.png"/> </a>
+     <img src="https://img.icons8.com/color/96/000000/javascript--v2.png"/>
+  <a href="https://www.docker.com/" target="_blank"> <img src="https://img.icons8.com/color/96/000000/docker.png"/> </a>
+  <a href="https://www.terraform.io/intro/index.html" target="_blank"> <img src="https://img.icons8.com/fluency/96/000000/terraform.png"/> </a>
+  <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/96/000000/git.png"/> </a>
+     <img src="https://img.icons8.com/color/96/000000/google-cloud.png"/>
+     <img src="https://img.icons8.com/color/96/000000/linux--v2.png"/>
 </p>
 
-[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)
-<br/>
-
-<p align="center">
+<!--<p align="center">
     <a href="https://github.com/syedatif4118/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Syed Atif's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=syedatif4118&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
