@@ -14,6 +14,10 @@
 
 - 📫 How to reach me *ishaan4488@gmail.com*
 
+- 💬 Ask me about Open Source Community , Frontend Developement, Microservices, Docker, K8s, Google Kubernetes engine, CNCF TOOLs
+
+- I Spended [![wakatime](https://wakatime.com/badge/user/8980ae70-4035-45bb-8c9a-a45067c11b98.svg)](https://wakatime.com/@8980ae70-4035-45bb-8c9a-a45067c11b98) time On Learning
+
 
 ## 🚀 Languages and Tools:
 
@@ -22,8 +26,8 @@
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/96/000000/python--v2.png"/></a>
   <a href="https://en.wikipedia.org/wiki/CSS" target="_blank"> <img src="https://img.icons8.com/color/96/000000/css3.png"/></a>
      <img src="https://img.icons8.com/color/96/000000/javascript--v2.png"/>
+     <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/000000/external-bootstrap-a-free-and-open-source-css-framework-logo-color-tal-revivo.png"/>
   <a href="https://www.docker.com/" target="_blank"> <img src="https://img.icons8.com/color/96/000000/docker.png"/> </a>
-  <a href="https://www.terraform.io/intro/index.html" target="_blank"> <img src="https://img.icons8.com/fluency/96/000000/terraform.png"/> </a>
   <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/96/000000/git.png"/> </a>
      <img src="https://img.icons8.com/color/96/000000/google-cloud.png"/>
      <img src="https://img.icons8.com/color/96/000000/linux--v2.png"/>
@@ -50,9 +54,10 @@
 ## Connect with me:
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/syedatif001/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/syed_atif01"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/s.y.e.d_a.t.i.f/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://www.linkedin.com/in/syedatif001/"><img src="https://www.linkedin.com/in/aditya-narayan-nayak-a207391a1/"/></a>
+<a href = "https://twitter.com/syed_atif01"><img src="https://twitter.com/AdityaN71677515"/></a>
+<a href = "https://linktr.ee/AdityaNarayan.N"><img src="https://img.icons8.com/color/96/000000/linktree.png"/></a>
+
 
 ![snake gif](https://github.com/syedatif4118/syedatif4118/blob/output/github-contribution-grid-snake.gif)
 </p>
