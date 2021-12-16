@@ -41,6 +41,17 @@
 <a href = "https://linktr.ee/AdityaNarayan.N"><img src="https://img.icons8.com/color/48/000000/linktree.png"/></a>
 <a href = "https://app.slack.com/client/T09NY5SBT/C9T0QMNG4/user_profile/U02NK6W5K3Q"> <img src="https://img.icons8.com/color/48/000000/slack-new.png"/> </a>
    
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aditya-narayan-nayak&label=Profile%20views&color=0e75b6&style=flat" alt="aditya-narayan-nayak" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aditya-narayan-nayak" alt="aditya-narayan-nayak" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/@adityan71677515" target="blank"><img src="https://img.shields.io/twitter/follow/@adityan71677515?logo=twitter&style=for-the-badge" alt="@adityan71677515" /></a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aditya-narayan-nayak&show_icons=true&locale=en&layout=compact" alt="aditya-narayan-nayak" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aditya-narayan-nayak&show_icons=true&locale=en" alt="aditya-narayan-nayak" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aditya-narayan-nayak&" alt="aditya-narayan-nayak" /></p>
 
 <!--<p align="center">
     <a href="https://github.com/syedatif4118/github-readme-streak-stats">
