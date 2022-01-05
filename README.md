@@ -53,6 +53,10 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aditya-narayan-nayak&" alt="aditya-narayan-nayak" /></p>
 
+
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="aditya-narayan-nayak" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/aditya-narayan-nayak?trk=profile-badge">Aditya Narayan Nayak</a></div>
+              
+
 <!--<p align="center">
     <a href="https://github.com/syedatif4118/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Syed Atif's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=syedatif4118&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
