@@ -20,6 +20,7 @@
 
 - I Spended [![wakatime](https://wakatime.com/badge/user/8980ae70-4035-45bb-8c9a-a45067c11b98.svg)](https://wakatime.com/@8980ae70-4035-45bb-8c9a-a45067c11b98) time On Learning
 
+- ![visitors](https://visitor-badge.glitch.me/badge?page_id=pacoxu.pacoxu&left_color=green&right_color=red)
 
 ## 🚀 Languages and Tools:
 
