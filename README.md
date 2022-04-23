@@ -1,38 +1,30 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" height="175px"/></a>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Aditya</h1>
-<h3 align="center">I'm a Software Developer who is building his career through Open Source.</h3>
+
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Aditya Narayan Nayak</h1>
+<h3 align="center">I'm a SRE/DevOps Engineer who is building his career through Open Source.</h3>
 
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently A Full stack Developer Trainee With Mern Specialization At NXTWAVE Bootcamp
+- 🔭 I’m currently working As an DevOps Engineer Intern At OD10 Ventures
 
-- 🌱 I’m currently learning *Full stack Developement(MERN Specialization) , container orchestration with Docker And K8S,and DevOps *
+- 🌱 I’m currently learning ArgoCD, Terraform, Github Action, Kubernetes administration
 
-- 👯 I’m looking to collaborate on *OpenSource Community and Startups*
+- 👯 I’m looking to collaborate on with New CNCF Projects/Litmus chaos
 
 - 📫 How to reach me *ishaan4488@gmail.com*
-- <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="aditya-narayan-nayak" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/aditya-narayan-nayak?trk=profile-badge">Aditya Narayan Nayak</a></div>
               
-
-- 💬 Ask me about Open Source Community , Frontend Developement, Microservices, Docker, K8s, Google Kubernetes engine, CNCF TOOLs
-
-- I Spended [![wakatime](https://wakatime.com/badge/user/8980ae70-4035-45bb-8c9a-a45067c11b98.svg)](https://wakatime.com/@8980ae70-4035-45bb-8c9a-a45067c11b98) time On Learning
-
+- 💬 Ask me about Open Source Community, Microservices, Docker, K8s, Kubernetes, Argocd, Chaos Enginerring, Azure DevOps.
 
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
-     <a href="https://www.google.com/search?q=html&oq=html&aqs=chrome..69i57j69i61j69i60l3j69i65l3.975j0j7&sourceid=chrome&ie=UTF-8" target="_blank"> <img src="https://img.icons8.com/color/96/000000/html-5--v2.png"/> </a>
-    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/96/000000/python--v2.png"/></a>
-  <a href="https://en.wikipedia.org/wiki/CSS" target="_blank"> <img src="https://img.icons8.com/color/96/000000/css3.png"/></a>
-     <img src="https://img.icons8.com/color/96/000000/javascript--v2.png"/>
-     <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/000000/external-bootstrap-a-free-and-open-source-css-framework-logo-color-tal-revivo.png"/>
-  <a href="https://www.docker.com/" target="_blank"> <img src="https://img.icons8.com/color/96/000000/docker.png"/> </a>
-  <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/96/000000/git.png"/> </a>
-     <img src="https://img.icons8.com/color/96/000000/google-cloud.png"/>
-     <img src="https://img.icons8.com/color/96/000000/linux--v2.png"/>
+  <img src="https://img.icons8.com/color/96/000000/docker.png"/>
+  <img src="https://img.icons8.com/color/96/000000/git.png"/>
+  <img src="https://img.icons8.com/color/96/000000/google-cloud.png"/>
+  <img src="https://img.icons8.com/color/96/000000/linux--v2.png"/>
+  
 </p>
 
 ## Connect with me:
@@ -42,20 +34,6 @@
 <a href = "https://twitter.com/AdityaN71677515"><img src=""/><img src="https://img.icons8.com/color/48/000000/twitter--v2.png"/></a>
 <a href = "https://linktr.ee/AdityaNarayan.N"><img src="https://img.icons8.com/color/48/000000/linktree.png"/></a>
 <a href = "https://app.slack.com/client/T09NY5SBT/C9T0QMNG4/user_profile/U02NK6W5K3Q"> <img src="https://img.icons8.com/color/48/000000/slack-new.png"/> </a>
-   
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aditya-narayan-nayak&label=Profile%20views&color=0e75b6&style=flat" alt="aditya-narayan-nayak" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aditya-narayan-nayak" alt="aditya-narayan-nayak" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/@adityan71677515" target="blank"><img src="https://img.shields.io/twitter/follow/@adityan71677515?logo=twitter&style=for-the-badge" alt="@adityan71677515" /></a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aditya-narayan-nayak&show_icons=true&locale=en&layout=compact" alt="aditya-narayan-nayak" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aditya-narayan-nayak&show_icons=true&locale=en" alt="aditya-narayan-nayak" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aditya-narayan-nayak&" alt="aditya-narayan-nayak" /></p>
-
-
               
 
 <!--<p align="center">
