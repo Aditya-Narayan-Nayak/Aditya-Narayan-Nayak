@@ -7,7 +7,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working As an DevOps Engineer Intern At OD10 Ventures
+- 🔭 I’m currently working As an DevOps Engineer At OD10 Ventures
 
 - 🌱 I’m currently learning ArgoCD, Terraform, Github Action, Kubernetes administration
 
