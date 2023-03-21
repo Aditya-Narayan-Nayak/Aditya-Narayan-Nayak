@@ -12,9 +12,7 @@
 
 - 🔭 I’m currently working As an DevOps Engineer At OD10 Ventures
 
-- 🌱 I’m currently learning ArgoCD, Terraform, Github Action, Kubernetes administration
-
-- 👯 I’m looking to collaborate 
+- 🌱 I’m currently learning Terraform, Bicep, AKS, Azure Arc, Edge, ARM 
 
 - 📫 How to reach me *ishaan4488@gmail.com*
               
