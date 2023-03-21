@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning ArgoCD, Terraform, Github Action, Kubernetes administration
 
-- 👯 I’m looking to collaborate on with New CNCF Projects/Litmus chaos
+- 👯 I’m looking to collaborate 
 
 - 📫 How to reach me *ishaan4488@gmail.com*
               
