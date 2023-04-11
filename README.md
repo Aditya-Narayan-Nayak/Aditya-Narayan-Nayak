@@ -1,8 +1,8 @@
 
 
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />, I'm Aditya Narayan Nayak</h1>
-<h3 align="center">I'm a SRE/DevOps Engineer who is building his career through Open Source.</h3>
+<h1 align="center">Hi,<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />I'm Aditya Narayan Nayak</h1>
+<h3 align="center">DevOps Engineer who is building his career through Open Source.</h3>
 
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=Aditya-Narayan-Nayak.Aditya-Narayan-Nayak&left_color=red&right_color=green&left_text=Hello%20Visitors)
 
