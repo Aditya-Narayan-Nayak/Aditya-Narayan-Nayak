@@ -10,7 +10,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working As an DevOps Engineer At OD10 Ventures
+- 🔭 I’m was working As an DevOps Engineer At OD10 Ventures. 
 
 - 🌱 I’m currently learning Linux, Terraform, Bicep, AKS, Azure Arc, Edge, ARM 
 
