@@ -10,15 +10,17 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m was working As an DevOps Engineer At OD10 Ventures. 
+- 🔭 I’m Currently working As a Cloud DevOps Engineer At Tecfinics.
+
+- Certified Azure Administrator, GCP Associate Cloud Engineer
 
 - 🌱 I’m currently learning Linux, Terraform, Bicep, AKS, Azure Arc, Edge, ARM 
 
 - 📫 How to reach me *ishaan4488@gmail.com*
               
-- 💬 Ask me about Open Source Community, Microservices, Docker, K8s, Kubernetes, Argocd, Chaos Enginerring, Azure DevOps.
+- 💬 Ask me about Open Source Community, Microservices, Docker, K8s, Kubernetes, Argocd, Chaos Engineering, Azure DevOps.
 
-- Connect with me :- +91 6372299553
+- Connect with me:- +91 6372299553
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
