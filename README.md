@@ -34,6 +34,17 @@
 ![](https://img.shields.io/badge/Expertise-AzureDevOps-2bbc8a)
 ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Certified-GitOps-2bbc8a)
+
+
+## Project interested in 
+
+<p>
+<a href="https://aka.ms/azurearcjumpstart"><img src="https://azurearcjumpstart.io/img/jumpstart-logo.png" title="Azure Arc Jumpstart" alt="Azure Arc Jumpstart" width="40" height="40"/></a>&nbsp;
+<a href="https://azure.microsoft.com"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/1200px-Microsoft_Azure.svg.png" title="Azure" alt="Azure" width="40" height="40"/></a>&nbsp;
+<a href="https://docs.microsoft.com/azure/azure-arc/overview"><img src="http://code.benco.io/icon-collection/azure-icons/Azure-Arc.svg" title="Azure Arc UI" alt="Azure Arc" width="40" height="40"/></a>&nbsp;
+<a href="https://docs.microsoft.com/azure/aks/"><img src="http://code.benco.io/icon-collection/azure-icons/Kubernetes-Services.svg" title="AKS" alt="AKS" width="40" height="40"/></a>&nbsp;
+<img src="http://code.benco.io/icon-collection/azure-icons/Dev-Console.svg" title="Automation" alt="Automation" width="40" height="40"/>&nbsp;
+</p>
               
 
 ### Socials
