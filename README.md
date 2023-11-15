@@ -22,6 +22,16 @@
 
 - Connect with me:- +91 6372299553
 
+## Certifications
+
+- 🚀 AZ 900 (Azure Fundamental)
+- 🚀 AZ 104 (Azure Administrator)
+- 🚀 GCP Associate Cloud Engineer
+- 🚀 Hasicorp Terraform Associate
+- 🚀 Oracle Cloud Infrastructure Foundation
+
+### Relevent Courses
+- 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
