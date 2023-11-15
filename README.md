@@ -31,20 +31,10 @@
 - 🚀 Oracle Cloud Infrastructure Foundation
 
 ### Relevent Courses
-- 
-## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Red_Hat_OpenShift-informational?style=flat&logo=red-hat-open-shift&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/cloud-Azure-2bbc8a)
-![](https://img.shields.io/badge/Expertise-AzureDevOps-2bbc8a)
-![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Certified-GitOps-2bbc8a)
 
+
+# 💻Tech Stack
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 
 ## Project interested in 
 
@@ -57,37 +47,25 @@
 </p>
               
 
-### Socials
-
-<p align="left"> <a href="https://www.github.com/Aditya-Narayan-Nayak" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://adnwalkar.hashnode.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/aditya-narayan-nayak" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/AdityaN71677515" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
-
-<a href="https://www.twitter.com/AdityaN71677515" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/AdityaN71677515?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a><a href="https://www.github.com/Aditya-Narayan-Nayak" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Aditya-Narayan-Nayak?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 
-<b>My GitHub Stats</b>
 
-<a href="http://www.github.com/Aditya-Narayan-Nayak"><img src="https://github-readme-stats.vercel.app/api?username=Aditya-Narayan-Nayak&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Aditya-Narayan-Nayak's GitHub stats" /></a>
+# 📊GitHub Stats :
+![](https://github-readme-stats.vercel.app/api?username=Aditya-Narayan-Nayak&theme=great-gatsby&hide_border=true&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Aditya-Narayan-Nayak&theme=great-gatsby&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-Narayan-Nayak&theme=great-gatsby&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
-<a href="http://www.github.com/Aditya-Narayan-Nayak"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Aditya-Narayan-Nayak&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+## 🏆GitHub Trophies
+![](https://github-trophies.vercel.app/?username=Aditya-Narayan-Nayak&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
 
-<a href="http://www.github.com/Aditya-Narayan-Nayak"><img src="https://activity-graph.herokuapp.com/graph?username=Aditya-Narayan-Nayak&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+### ✍️Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<a href="https://github.com/Aditya-Narayan-Nayak" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-Narayan-Nayak&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+### 😂Random Dev Meme
+<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/Aditya-Narayan-Nayak/Opensource-Buddy" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Aditya-Narayan-Nayak&repo=Opensource-Buddy&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Aditya-Narayan-Nayak/azure-aks-kubernetes-masterclass" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Aditya-Narayan-Nayak&repo=azure-aks-kubernetes-masterclass&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-<br /><br /><br /><br /><br />
-
-<div width="100%" align="center"><a href="https://github.com/Aditya-Narayan-Nayak/azure-devops-aks-kubernetes-terraform-pipeline" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Aditya-Narayan-Nayak&repo=azure-devops-aks-kubernetes-terraform-pipeline&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
-
-### Support Me
-
-<a href="https://www.buymeacoffee.com/adityanarayan"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+---
+[![](https://visitcount.itsvg.in/api?id=Aditya-Narayan-Nayak&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!--
 **Aditya-Narayan-Nayak/Aditya-Narayan-Nayak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
