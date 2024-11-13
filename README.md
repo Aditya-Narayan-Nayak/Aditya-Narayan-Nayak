@@ -14,7 +14,7 @@
 
 - Certified Azure Administrator, GCP Associate Cloud Engineer
 
-- 🌱 I’m currently learning Linux, Terraform, Bicep, AKS, Azure Arc, Edge, ARM 
+- 🌱 I’m currently learning Bicep, AKS, Azure Arc, Rust, C#, .NET, Machine Learning
 
 - 📫 How to reach me *ishaan4488@gmail.com*
               
