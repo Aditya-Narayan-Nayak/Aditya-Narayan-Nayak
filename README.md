@@ -10,9 +10,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m Currently working As a Cloud DevOps Engineer At Tecfinics.
-
-- Certified Azure Administrator, GCP Associate Cloud Engineer
+- 🔭 Generally Platform Enginner Currently building Ai products.
 
 - 🌱 I’m currently learning Bicep, AKS, Azure Arc, Rust, C#, .NET, Machine Learning
 
