@@ -10,7 +10,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 Generally Platform Enginner Currently building Ai products.
+- 🔭 Generally Platform Enginner Currently building Autoops Ai products.
 
 - 🌱 I’m currently learning Bicep, AKS, Azure Arc, Rust, C#, .NET, Machine Learning
 
