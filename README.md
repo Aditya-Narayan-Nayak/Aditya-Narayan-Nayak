@@ -12,7 +12,7 @@
 
 - 🔭 Generally Platform Enginner Currently building Autoops Ai product.
 
-- 🌱 I’m currently learning Bicep, AKS, Azure Arc, Rust, C#, .NET, Machine Learning
+- 🌱 I’m currently learning Rust, Machine Learning, AI Infra Deployment, FPGAI
 
 - 📫 How to reach me *ishaan4488@gmail.com*
               
